@@ -180,7 +180,7 @@ The theme is available as open source under the terms of the [MIT License](https
 
 - [CV Enterprises](https://cventerprises.org)
 - [Mortazavi Lab at UC Irvine](https://mortazavilab.github.io/)
-
+ 
 -->
 
 [demo-page]: https://raviriley.github.io/agency-jekyll-theme-starter/
