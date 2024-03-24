@@ -18,7 +18,7 @@ en: &DEFAULT_EN
 
   about:
     title: "About Us"
-    text: "our story"
+    text: "our story. Change this at /_data/sitetext.yml"
     body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
     section: about
 
@@ -28,10 +28,10 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Change this at /_data/sitetext.yml"
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Change or find out more icons at https://fontawesome.com/icons"
         icon: fas fa-laptop
       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Your description here, full **Markdown** support"
@@ -40,7 +40,7 @@ en: &DEFAULT_EN
   team:
     title: "OUR AMAZING TEAM"
     text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    subtext: Change this at _data/sitetext.yml. **Markdown** supported.
     section: team
     people:
       - name: "Kay Garland"
